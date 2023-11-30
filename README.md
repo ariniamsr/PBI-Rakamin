@@ -21,10 +21,10 @@ Presented by Arini Arumsari
 A primary key is a column that uniquely identifies each row of data in a table. It can distinguish one row from another and is often used as a reference for other tables. The primary key value in each row must be unique, and there must be no duplicates. This primary key ensures that the data in the table is organized in a structured and efficient way.
 
 ***A. Determine each primary key in the 4 sales tables.***
-    1.Primary key tabel Customer : CustomerID 
-    2. Primary key tabel Products : CategoryID
-    3. Primary key tabel Orders : OrderID
-    4. Primary key tabel ProductCategory : ProdNumber
+1.Primary key tabel Customer : CustomerID 
+2. Primary key tabel Products : CategoryID
+3. Primary key tabel Orders : OrderID
+4. Primary key tabel ProductCategory : ProdNumber
 
 #### Relationship Table
 ![ERD-capture](https://github.com/ariniamsr/Project-Based-Internship-Business-Intelligence-Analyst-by-Rakamin-Academy/blob/main/picture/ERD%20.png)
