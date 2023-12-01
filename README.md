@@ -23,9 +23,9 @@ The CREATE TABLE statement creates a new table in a database. You can also creat
 
 
 #### Primary Key
-A primary key is a column that uniquely identifies each row of data in a table. It can distinguish one row from another and is often used as a reference for other tables. The primary key value in each row must be unique, and there must be no duplicates. This primary key ensures that the data in the table is organized in a structured and efficient way.
+a primary key is a column that uniquely identifies each row of data in a table. It can distinguish one row from another and is often used as a reference for other tables. The primary key value in each row must be unique, and there must be no duplicates. This primary key ensures that the data in the table is organized in a structured and efficient way.
 
-A. Determine each primary key in the 4 sales tables. <br>
+Determine each primary key in the 4 sales tables. <br>
 1. Primary key tabel Customer : CustomerID <br>
 2. Primary key tabel Products : CategoryID <br>
 3. Primary key tabel Orders : OrderID <br>
