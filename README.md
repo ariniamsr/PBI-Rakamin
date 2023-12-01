@@ -18,6 +18,7 @@ Presented by Arini Arumsari
 
 ### Data Understanding
 #### Create Database
+The CREATE TABLE statement creates a new table in a database. You can also create temporary tables with the CREATE TABLE statement.
 **[Link Query](https://github.com/ariniamsr/Project-Based-Internship-Business-Intelligence-Analyst-by-Rakamin-Academy/blob/main/Query_SQL/1.%20Create%20Database.sql)**
 
 
@@ -25,7 +26,7 @@ Presented by Arini Arumsari
 A primary key is a column that uniquely identifies each row of data in a table. It can distinguish one row from another and is often used as a reference for other tables. The primary key value in each row must be unique, and there must be no duplicates. This primary key ensures that the data in the table is organized in a structured and efficient way.
 
 A. Determine each primary key in the 4 sales tables. <br>
-1.Primary key tabel Customer : CustomerID <br>
+1. Primary key tabel Customer : CustomerID <br>
 2. Primary key tabel Products : CategoryID <br>
 3. Primary key tabel Orders : OrderID <br>
 4. Primary key tabel ProductCategory : ProdNumber <br>
@@ -41,10 +42,16 @@ A. Determine each primary key in the 4 sales tables. <br>
 )** <br>
 
 
-
 ### Data Analyzing & visualization <br>
 #### Data Visualization <br>
 
 ![dashboard-capture](https://github.com/ariniamsr/Project-Based-Internship-Business-Intelligence-Analyst-by-Rakamin-Academy/blob/main/picture/Dashboard.png) <br>
 
 **[Link Dashboard](https://lookerstudio.google.com/reporting/3b6dff1b-6d81-4a97-a698-4b06e557ad4a)**
+
+#### Insights
+1. The number of Product Categories from Robot Kits is increased because based on sales data the Product Category from Robot Kits enters the top 5 sales. Which means that there is more interest in the Robot Kits Product Category than in the Blueprints Product Category. <br>
+2. In the top 5 sales graph, the Product Category from Robots has the most sales compared to the others, it would be better if we add more Product Categories from Robots. <br>
+3. Because the Product Category of Training Videos is in the top 5 final levels, with sales numbers quite far from the other top 5. it's better if we just reduce the number of Product Categories of Training Videos.
+
+***Thank You🌻***
