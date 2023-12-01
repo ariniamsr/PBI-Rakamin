@@ -31,20 +31,20 @@ A. Determine each primary key in the 4 sales tables. <br>
 4. Primary key tabel ProductCategory : ProdNumber <br>
 **[Link Query](https://github.com/ariniamsr/Project-Based-Internship-Business-Intelligence-Analyst-by-Rakamin-Academy/blob/main/Query_SQL/2.%20Primary%20Key.sql)**
 
-#### Relationship Table
-**[Link Query](https://github.com/ariniamsr/Project-Based-Internship-Business-Intelligence-Analyst-by-Rakamin-Academy/blob/main/Query_SQL/3.%20Create%20Relationship.sql)**
-![ERD-capture](https://github.com/ariniamsr/Project-Based-Internship-Business-Intelligence-Analyst-by-Rakamin-Academy/blob/main/picture/ERD%20.png)
+#### Relationship Table <br>
+**[Link Query](https://github.com/ariniamsr/Project-Based-Internship-Business-Intelligence-Analyst-by-Rakamin-Academy/blob/main/Query_SQL/3.%20Create%20Relationship.sql)** <br>
+![ERD-capture](https://github.com/ariniamsr/Project-Based-Internship-Business-Intelligence-Analyst-by-Rakamin-Academy/blob/main/picture/ERD%20.png) <br>
 
 
-#### Create Table Master
+#### Create Table Master <br>
 **[Link Query](https://github.com/ariniamsr/Project-Based-Internship-Business-Intelligence-Analyst-by-Rakamin-Academy/blob/main/Query_SQL/4.%20Create%20Table%20Master.sql
-)**
+)** <br>
 
 
 
-### Data Analyzing & visualization
-#### Data Visualization
+### Data Analyzing & visualization <br>
+#### Data Visualization <br>
 
-![dashboard-capture](https://github.com/ariniamsr/Project-Based-Internship-Business-Intelligence-Analyst-by-Rakamin-Academy/blob/main/picture/Dashboard.png)
+![dashboard-capture](https://github.com/ariniamsr/Project-Based-Internship-Business-Intelligence-Analyst-by-Rakamin-Academy/blob/main/picture/Dashboard.png) <br>
 
 **[Link Dashboard](https://lookerstudio.google.com/reporting/3b6dff1b-6d81-4a97-a698-4b06e557ad4a)**
