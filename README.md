@@ -38,6 +38,7 @@ A. Determine each primary key in the 4 sales tables. <br>
 
 
 #### Create Table Master <br>
+In a database, a master table is a table that contains the primary or key data for a particular system or application. It typically stores data that is used across multiple tables or modules within a system, such as customer data, product data, or financial data.
 **[Link Query](https://github.com/ariniamsr/Project-Based-Internship-Business-Intelligence-Analyst-by-Rakamin-Academy/blob/main/Query_SQL/4.%20Create%20Table%20Master.sql
 )** <br>
 
