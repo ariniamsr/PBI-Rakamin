@@ -57,5 +57,7 @@ Data visualization is the representation of data through use of common graphics,
 3. Because the Product Category of Training Videos is in the top 5 final levels, with sales numbers quite far from the other top 5. it's better if we just reduce the number of Product Categories of Training Videos.
 **[Link Presentation](https://github.com/ariniamsr/Project-Based-Internship-Business-Intelligence-Analyst-by-Rakamin-Academy/blob/main/FinalTask_BankMuamalat_BIAnalyst_Arini.pdf)**
 
-
-***Thank You🌻***
+ I have earned the following certifications: 
+ **[Link Certifications]( https://github.com/ariniamsr/Project-Based-Internship-Business-Intelligence-Analyst-by-Rakamin-Academy/blob/main/picture/pbi-certificate-152837IAPAGIB1122023.pdf
+)**
+                                                                          ***🌻Thank You🌻***
