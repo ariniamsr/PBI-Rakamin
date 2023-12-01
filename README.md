@@ -59,5 +59,5 @@ Data visualization is the representation of data through use of common graphics,
 
  I have earned the following certifications: 
  **[Link Certifications]( https://github.com/ariniamsr/Project-Based-Internship-Business-Intelligence-Analyst-by-Rakamin-Academy/blob/main/picture/pbi-certificate-152837IAPAGIB1122023.pdf
-)**
+)** <br>
                                                                           ***🌻Thank You🌻***
