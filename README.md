@@ -17,6 +17,10 @@ Presented by Arini Arumsari
 
 
 ### Data Understanding
+#### Create Database
+**[Link Query](https://github.com/ariniamsr/Project-Based-Internship-Business-Intelligence-Analyst-by-Rakamin-Academy/blob/main/Query_SQL/1.%20Create%20Database.sql)**
+
+
 #### Primary Key
 A primary key is a column that uniquely identifies each row of data in a table. It can distinguish one row from another and is often used as a reference for other tables. The primary key value in each row must be unique, and there must be no duplicates. This primary key ensures that the data in the table is organized in a structured and efficient way.
 
@@ -25,9 +29,17 @@ A. Determine each primary key in the 4 sales tables. <br>
 2. Primary key tabel Products : CategoryID <br>
 3. Primary key tabel Orders : OrderID <br>
 4. Primary key tabel ProductCategory : ProdNumber <br>
+**[Link Query](https://github.com/ariniamsr/Project-Based-Internship-Business-Intelligence-Analyst-by-Rakamin-Academy/blob/main/Query_SQL/2.%20Primary%20Key.sql)**
 
 #### Relationship Table
+**[Link Query](https://github.com/ariniamsr/Project-Based-Internship-Business-Intelligence-Analyst-by-Rakamin-Academy/blob/main/Query_SQL/3.%20Create%20Relationship.sql)**
 ![ERD-capture](https://github.com/ariniamsr/Project-Based-Internship-Business-Intelligence-Analyst-by-Rakamin-Academy/blob/main/picture/ERD%20.png)
+
+
+#### Create Table Master
+**[Link Query](https://github.com/ariniamsr/Project-Based-Internship-Business-Intelligence-Analyst-by-Rakamin-Academy/blob/main/Query_SQL/4.%20Create%20Table%20Master.sql
+)**
+
 
 
 ### Data Analyzing & visualization
