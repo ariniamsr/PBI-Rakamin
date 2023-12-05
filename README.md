@@ -3,7 +3,7 @@ Bank Muamalat Business Intelligence Analyst Project-Based Internship Program
 
 Business Intelligence Analyst VIX
 
-Presented by Arini Arumsari
+Presented by **Arini Arumsari**
 
 
 ## Case Study
